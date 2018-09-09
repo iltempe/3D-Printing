@@ -4,7 +4,7 @@
 Font_name = "Chewy"; // [ Anton, Chewy, Forte, Gloria Hallelujah, Lobster, Luckiest Guy, Open Sans Extrabold, Oswald, Pacifico, Press Start 2P, Racing Sans One, Sigmar One, Snap ITC]
 
 // for your keyring
-Text = "GALcIAnA";
+Text = "GARcIAnA";
 
 // of the preview
 Rotation = 50; // [0:5:360]
@@ -12,19 +12,19 @@ Rotation = 50; // [0:5:360]
 /* [Spacing and Height] */
 
 letter_1_height = 6; // [-20:0.5:20]
-letter_1_space = 15; // [-20:0.5:20]
+letter_1_space = 12; // [-20:0.5:20]
 letter_1_y = 0; // [-20:0.5:20]
 letter_1_rotation = 0; // [-45:0.5:45]
 
 letter_2_height = 5; // [-20:0.5:20]
-letter_2_space = 15; // [-20:0.5:20]
+letter_2_space = 12; // [-20:0.5:20]
 letter_2_y = 5; // [-20:0.5:20]
-letter_2_rotation = 2; // [-45:0.5:45]
+letter_2_rotation = 3; // [-45:0.5:45]
 
-letter_3_height = 7; // [-20:0.5:20]
+letter_3_height = 9; // [-20:0.5:20]
 letter_3_space = 12; // [-20:0.5:20]
-letter_3_y = 0; // [-20:0.5:20]
-letter_3_rotation = -2; // [-45:0.5:45]
+letter_3_y = 5; // [-20:0.5:20]
+letter_3_rotation = -8; // [-45:0.5:45]
 
 letter_4_height = 8; // [-20:0.5:20]
 letter_4_space = 11; // [-20:0.5:20]
